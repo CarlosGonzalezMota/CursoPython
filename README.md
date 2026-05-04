@@ -10,8 +10,8 @@
 ## Secciones
 * <ins> Sección 1 </ins> - Variables en Python
   
-  * Carpeta Variables
+  * CursoPython\Variables
 
 * <ins> Sección 2 </ins> - Manejo de Cadenas en Python
 
-  * 
+  * CursoPython\Cadenas
