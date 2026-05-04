@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Variables/Ejercicio02/tienda_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables/constantes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/Ejercicio01/reserva_hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/Ejercicio01/reserva_hotel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +225,7 @@
       <workItem from="1777619052159" duration="1420000" />
       <workItem from="1777620493943" duration="609000" />
       <workItem from="1777819078590" duration="3008000" />
-      <workItem from="1777915130537" duration="2435000" />
+      <workItem from="1777915130537" duration="2702000" />
     </task>
     <servers />
   </component>

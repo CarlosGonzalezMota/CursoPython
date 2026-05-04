@@ -7,6 +7,9 @@
 ## Uso
 * Este curso es para uso personal
 
+## Enlaces y Descargas
+* [IDE de PyCharm] --> https://www.jetbrains.com/pycharm/download/?section=windows (Para Windows)
+
 ## Secciones
 * <ins> Sección 1 </ins> - Variables en Python
   
