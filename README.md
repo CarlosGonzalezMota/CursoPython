@@ -1,1 +1,17 @@
-# CursoPython
+# Curso de Python
+
+## Descripción
+* Curso se python en el que se va a ver: Web Django, Flask, FastApi, FullStack,
+  Flet, PySide, SQLAlchemy, MySql, PyCharm, etc.
+
+## Uso
+* Este curso es para uso personal
+
+## Secciones
+* <ins> Sección 1 </ins> - Variables en Python
+  
+  * CursoPython\Variables
+
+* <ins> Sección 2 </ins> - Manejo de Cadenas en Python
+
+  * CursoPython\Cadenas
