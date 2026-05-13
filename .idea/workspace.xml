@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Cadenas/Ejercicio01/generador_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Cadenas/buscar_subcadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejemplo01/sistema_empleados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio01/receta_cocina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio02/generador_id_unico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03/generador_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/conversion_tipos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/entrada_datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/error_comun_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/funcion_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/generar_valores_aleatorios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +60,24 @@
     "Python.caracteres_especiales.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
+    "Python.conversion_tipos.executor": "Run",
+    "Python.entrada_datos.executor": "Run",
+    "Python.error_comun_bool.executor": "Run",
+    "Python.funcion_bool.executor": "Run",
     "Python.funcion_len.executor": "Run",
     "Python.generador_email.executor": "Run",
+    "Python.generador_id.executor": "Run",
+    "Python.generador_id_unico (1).executor": "Run",
+    "Python.generar_valores_aleatorios.executor": "Run",
     "Python.hola_mundo.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
     "Python.modificar_variables.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
+    "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
     "Python.reserva_hotel.executor": "Run",
+    "Python.sistema_empleados.executor": "Run",
     "Python.slicing.executor": "Run",
     "Python.tienda_online.executor": "Run",
     "Python.tipos_datos.executor": "Run",
@@ -82,36 +99,12 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\04_EntradaDatos\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\HolaMundo" />
     </key>
   </component>
   <component name="RunManager" selected="Python.generador_email">
-    <configuration name="buscar_subcadenas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Cadenas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Cadenas/buscar_subcadenas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="generador_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -121,14 +114,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Cadenas/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Cadenas/Ejercicio01/generador_email.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03/generador_email.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiplicacion_cadenas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generador_id_unico (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,14 +139,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Cadenas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Cadenas/multiplicacion_cadenas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02/generador_id_unico.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reemplazar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generador_id_unico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,14 +164,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Cadenas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Cadenas/reemplazar.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\04_EntradaDatos\Ejercicio02\generador_id_unico.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generar_valores_aleatorios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,14 +189,39 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Cadenas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Cadenas/slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/generar_valores_aleatorios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="receta_cocina" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01/receta_cocina.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,10 +233,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.generador_email" />
-        <item itemvalue="Python.buscar_subcadenas" />
-        <item itemvalue="Python.multiplicacion_cadenas" />
-        <item itemvalue="Python.reemplazar" />
-        <item itemvalue="Python.slicing" />
+        <item itemvalue="Python.generador_id_unico (1)" />
+        <item itemvalue="Python.generador_id_unico" />
+        <item itemvalue="Python.generar_valores_aleatorios" />
+        <item itemvalue="Python.receta_cocina" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +259,8 @@
       <workItem from="1777819078590" duration="3008000" />
       <workItem from="1777915130537" duration="2793000" />
       <workItem from="1778333748741" duration="3170000" />
-      <workItem from="1778421790034" duration="4181000" />
+      <workItem from="1778421790034" duration="4556000" />
+      <workItem from="1778685635519" duration="6467000" />
     </task>
     <servers />
   </component>
@@ -286,22 +305,31 @@
     <SUITE FILE_PATH="coverage/CursoPython$buscar_subcadenas.coverage" NAME="buscar_subcadenas Coverage Results" MODIFIED="1778424270115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$tienda_online.coverage" NAME="tienda_online Coverage Results" MODIFIED="1777916557911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/Ejercicio02" />
     <SUITE FILE_PATH="coverage/CursoPython$reemplazar.coverage" NAME="reemplazar Coverage Results" MODIFIED="1778423008875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$multiplicacion_cadenas.coverage" NAME="multiplicacion_cadenas Coverage Results" MODIFIED="1778423509188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$hola_mundo.coverage" NAME="hola_mundo Coverage Results" MODIFIED="1777620664885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HolaMundo" />
-    <SUITE FILE_PATH="coverage/CursoPython$generador_email.coverage" NAME="generador_email Coverage Results" MODIFIED="1778425928181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas/Ejercicio01" />
     <SUITE FILE_PATH="coverage/CursoPython$cadenas_multilinea.coverage" NAME="cadenas_multilinea Coverage Results" MODIFIED="1778334313798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$inmutabilidad_cadenas.coverage" NAME="inmutabilidad_cadenas Coverage Results" MODIFIED="1778336815327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$generador_id.coverage" NAME="generador_id Coverage Results" MODIFIED="1778690785629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
+    <SUITE FILE_PATH="coverage/CursoPython$sistema_empleados.coverage" NAME="sistema_empleados Coverage Results" MODIFIED="1778688079390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejemplo01" />
+    <SUITE FILE_PATH="coverage/CursoPython$nombres_variables.coverage" NAME="nombres_variables Coverage Results" MODIFIED="1777822014172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/CursoPython$concatenacion_cadenas.coverage" NAME="concatenacion_cadenas Coverage Results" MODIFIED="1778335888943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$cadenas.coverage" NAME="cadenas Coverage Results" MODIFIED="1778334073566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$tipos_datos.coverage" NAME="tipos_datos Coverage Results" MODIFIED="1777820576632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/TiposDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$error_comun_bool.coverage" NAME="error_comun_bool Coverage Results" MODIFIED="1778686936119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$funcion_len.coverage" NAME="funcion_len Coverage Results" MODIFIED="1778336203486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales__1_.coverage" NAME="caracteres_especiales (1) Coverage Results" MODIFIED="1778335179963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$multiplicacion_cadenas.coverage" NAME="multiplicacion_cadenas Coverage Results" MODIFIED="1778423509188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$generador_email.coverage" NAME="generador_email Coverage Results" MODIFIED="1778691999906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03" />
     <SUITE FILE_PATH="coverage/CursoPython$reserva_hotel.coverage" NAME="reserva_hotel Coverage Results" MODIFIED="1777916047367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/Ejercicio01" />
     <SUITE FILE_PATH="coverage/CursoPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1777819660653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
-    <SUITE FILE_PATH="coverage/CursoPython$inmutabilidad_cadenas.coverage" NAME="inmutabilidad_cadenas Coverage Results" MODIFIED="1778336815327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$nombres_variables.coverage" NAME="nombres_variables Coverage Results" MODIFIED="1777822014172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
-    <SUITE FILE_PATH="coverage/CursoPython$cadenas.coverage" NAME="cadenas Coverage Results" MODIFIED="1778334073566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$concatenacion_cadenas.coverage" NAME="concatenacion_cadenas Coverage Results" MODIFIED="1778335888943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$tipos_datos.coverage" NAME="tipos_datos Coverage Results" MODIFIED="1777820576632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/TiposDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$funcion_bool.coverage" NAME="funcion_bool Coverage Results" MODIFIED="1778686593306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$entrada_datos.coverage" NAME="entrada_datos Coverage Results" MODIFIED="1778687458246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$generar_valores_aleatorios.coverage" NAME="generar_valores_aleatorios Coverage Results" MODIFIED="1778689377088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$conversion_tipos.coverage" NAME="conversion_tipos Coverage Results" MODIFIED="1778686049662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$generador_id_unico__1_.coverage" NAME="generador_id_unico (1) Coverage Results" MODIFIED="1778691198498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
     <SUITE FILE_PATH="coverage/CursoPython$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1778422677637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$modificar_variables.coverage" NAME="modificar_variables Coverage Results" MODIFIED="1777821008993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
     <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales.coverage" NAME="caracteres_especiales Coverage Results" MODIFIED="1778334971622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$funcion_len.coverage" NAME="funcion_len Coverage Results" MODIFIED="1778336203486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales__1_.coverage" NAME="caracteres_especiales (1) Coverage Results" MODIFIED="1778335179963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$receta_cocina.coverage" NAME="receta_cocina Coverage Results" MODIFIED="1778688615364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01" />
     <SUITE FILE_PATH="coverage/CursoPython$constantes.coverage" NAME="constantes Coverage Results" MODIFIED="1777917149850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
   </component>
 </project>
