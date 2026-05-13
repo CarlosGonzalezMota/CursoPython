@@ -21,4 +21,6 @@
 
 * <ins> Sección 4 </ins> - Entrada de Datos en Python
 
-  * 
+  * CursoPython\04_EntradaDatos
+
+* <ins> Sección 5 </ins> - Operadores en Python
