@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejemplo01/sistema_empleados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio01/receta_cocina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio02/generador_id_unico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03/generador_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/conversion_tipos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/entrada_datos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/error_comun_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/funcion_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EntradaDatos/generar_valores_aleatorios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,50 +38,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.buscar_subcadenas.executor": "Run",
-    "Python.cadenas.executor": "Run",
-    "Python.cadenas_multilinea.executor": "Run",
-    "Python.caracteres_especiales (1).executor": "Run",
-    "Python.caracteres_especiales.executor": "Run",
-    "Python.concatenacion_cadenas.executor": "Run",
-    "Python.constantes.executor": "Run",
-    "Python.conversion_tipos.executor": "Run",
-    "Python.entrada_datos.executor": "Run",
-    "Python.error_comun_bool.executor": "Run",
-    "Python.funcion_bool.executor": "Run",
-    "Python.funcion_len.executor": "Run",
-    "Python.generador_email.executor": "Run",
-    "Python.generador_id.executor": "Run",
-    "Python.generador_id_unico (1).executor": "Run",
-    "Python.generar_valores_aleatorios.executor": "Run",
-    "Python.hola_mundo.executor": "Run",
-    "Python.inmutabilidad_cadenas.executor": "Run",
-    "Python.modificar_variables.executor": "Run",
-    "Python.multiplicacion_cadenas.executor": "Run",
-    "Python.nombres_variables.executor": "Run",
-    "Python.receta_cocina.executor": "Run",
-    "Python.reemplazar.executor": "Run",
-    "Python.reserva_hotel.executor": "Run",
-    "Python.sistema_empleados.executor": "Run",
-    "Python.slicing.executor": "Run",
-    "Python.tienda_online.executor": "Run",
-    "Python.tipos_datos.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "rama-curso-python",
-    "last_opened_file_path": "C:/Users/Carlos/Desktop/Python/CursoPython",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.buscar_subcadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadenas_multilinea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caracteres_especiales (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.caracteres_especiales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concatenacion_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constantes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversion_tipos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entrada_datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.error_comun_bool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcion_bool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcion_len.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generador_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generador_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generador_id_unico (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.generar_valores_aleatorios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hola_mundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inmutabilidad_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modificar_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplicacion_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nombres_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.receta_cocina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reemplazar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reserva_hotel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema_empleados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tienda_online.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tipos_datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;rama-curso-python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Carlos/Desktop/Python/CursoPython&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython" />
@@ -260,7 +248,7 @@
       <workItem from="1777915130537" duration="2793000" />
       <workItem from="1778333748741" duration="3170000" />
       <workItem from="1778421790034" duration="4556000" />
-      <workItem from="1778685635519" duration="6467000" />
+      <workItem from="1778685635519" duration="6757000" />
     </task>
     <servers />
   </component>
