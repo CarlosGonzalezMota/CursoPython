@@ -14,7 +14,7 @@
 * <ins> Sección 2 </ins> - Variables en Python
   
   * CursoPython\02_Variables
-    * [Ejercicios] --> (../02_Variables/Ejercicios/)
+    * [Ejercicios](../02_Variables/Ejercicios/)
 
 * <ins> Sección 3 </ins> - Manejo de Cadenas en Python
 
