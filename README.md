@@ -19,9 +19,11 @@
 * <ins> Sección 3 </ins> - Manejo de Cadenas en Python
 
   * CursoPython\03_Cadenas
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/03_Cadenas/Ejercicio01)      
 
 * <ins> Sección 4 </ins> - Entrada de Datos en Python
 
   * CursoPython\04_EntradaDatos
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/04_EntradaDatos/Ejercicios) 
 
 * <ins> Sección 5 </ins> - Operadores en Python
