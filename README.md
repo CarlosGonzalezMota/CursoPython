@@ -27,3 +27,5 @@
     * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/04_EntradaDatos/Ejercicios) 
 
 * <ins> Sección 5 </ins> - Operadores en Python
+
+  * CursoPython\05_Operadores

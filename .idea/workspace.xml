@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="" />
+    <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_aritmeticos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_asignacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_asignacion_compuestos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,61 +44,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.buscar_subcadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cadenas_multilinea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caracteres_especiales (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.caracteres_especiales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.concatenacion_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constantes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversion_tipos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.entrada_datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.error_comun_bool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcion_bool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcion_len.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_email.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_id.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_id_unico (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.generar_valores_aleatorios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hola_mundo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inmutabilidad_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modificar_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplicacion_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nombres_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.receta_cocina.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reemplazar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reserva_hotel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_empleados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tienda_online.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tipos_datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama-curso-python&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Carlos/Desktop/Python/CursoPython&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.buscar_subcadenas.executor": "Run",
+    "Python.cadenas.executor": "Run",
+    "Python.cadenas_multilinea.executor": "Run",
+    "Python.caracteres_especiales (1).executor": "Run",
+    "Python.caracteres_especiales.executor": "Run",
+    "Python.concatenacion_cadenas.executor": "Run",
+    "Python.constantes.executor": "Run",
+    "Python.conversion_tipos.executor": "Run",
+    "Python.entrada_datos.executor": "Run",
+    "Python.error_comun_bool.executor": "Run",
+    "Python.funcion_bool.executor": "Run",
+    "Python.funcion_len.executor": "Run",
+    "Python.generador_email.executor": "Run",
+    "Python.generador_id.executor": "Run",
+    "Python.generador_id_unico (1).executor": "Run",
+    "Python.generar_valores_aleatorios.executor": "Run",
+    "Python.hola_mundo.executor": "Run",
+    "Python.inmutabilidad_cadenas.executor": "Run",
+    "Python.modificar_variables.executor": "Run",
+    "Python.multiplicacion_cadenas.executor": "Run",
+    "Python.nombres_variables.executor": "Run",
+    "Python.operadores_aritmeticos.executor": "Run",
+    "Python.operadores_asignacion.executor": "Run",
+    "Python.operadores_asignacion_compuestos.executor": "Run",
+    "Python.receta_cocina.executor": "Run",
+    "Python.reemplazar.executor": "Run",
+    "Python.reserva_hotel.executor": "Run",
+    "Python.sistema_empleados.executor": "Run",
+    "Python.slicing.executor": "Run",
+    "Python.tienda_online.executor": "Run",
+    "Python.tipos_datos.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "rama-curso-python",
+    "last_opened_file_path": "C:/Users/Carlos/Desktop/Python/CursoPython",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\02_Variables\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\04_EntradaDatos\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\HolaMundo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.generador_email">
+  <component name="RunManager" selected="Python.operadores_asignacion_compuestos">
     <configuration name="generador_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -143,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generador_id_unico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_aritmeticos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,14 +162,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\04_EntradaDatos\Ejercicio02\generador_id_unico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_aritmeticos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generar_valores_aleatorios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_asignacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,14 +187,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/generar_valores_aleatorios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_asignacion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="receta_cocina" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_asignacion_compuestos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,14 +212,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01/receta_cocina.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_asignacion_compuestos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.operadores_asignacion_compuestos" />
+        <item itemvalue="Python.operadores_asignacion" />
+        <item itemvalue="Python.operadores_aritmeticos" />
         <item itemvalue="Python.generador_email" />
         <item itemvalue="Python.generador_id_unico (1)" />
-        <item itemvalue="Python.generador_id_unico" />
-        <item itemvalue="Python.generar_valores_aleatorios" />
-        <item itemvalue="Python.receta_cocina" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +259,8 @@
       <workItem from="1778333748741" duration="3170000" />
       <workItem from="1778421790034" duration="4556000" />
       <workItem from="1778685635519" duration="6757000" />
+      <workItem from="1778793768229" duration="661000" />
+      <workItem from="1779210914980" duration="2021000" />
     </task>
     <servers />
   </component>
@@ -299,12 +311,14 @@
     <SUITE FILE_PATH="coverage/CursoPython$generador_id.coverage" NAME="generador_id Coverage Results" MODIFIED="1778690785629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
     <SUITE FILE_PATH="coverage/CursoPython$sistema_empleados.coverage" NAME="sistema_empleados Coverage Results" MODIFIED="1778688079390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejemplo01" />
     <SUITE FILE_PATH="coverage/CursoPython$nombres_variables.coverage" NAME="nombres_variables Coverage Results" MODIFIED="1777822014172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
-    <SUITE FILE_PATH="coverage/CursoPython$concatenacion_cadenas.coverage" NAME="concatenacion_cadenas Coverage Results" MODIFIED="1778335888943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$cadenas.coverage" NAME="cadenas Coverage Results" MODIFIED="1778334073566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$concatenacion_cadenas.coverage" NAME="concatenacion_cadenas Coverage Results" MODIFIED="1778335888943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_asignacion.coverage" NAME="operadores_asignacion Coverage Results" MODIFIED="1779212508508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$tipos_datos.coverage" NAME="tipos_datos Coverage Results" MODIFIED="1777820576632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/TiposDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$error_comun_bool.coverage" NAME="error_comun_bool Coverage Results" MODIFIED="1778686936119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$funcion_len.coverage" NAME="funcion_len Coverage Results" MODIFIED="1778336203486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales__1_.coverage" NAME="caracteres_especiales (1) Coverage Results" MODIFIED="1778335179963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_asignacion_compuestos.coverage" NAME="operadores_asignacion_compuestos Coverage Results" MODIFIED="1779212930900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$multiplicacion_cadenas.coverage" NAME="multiplicacion_cadenas Coverage Results" MODIFIED="1778423509188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$generador_email.coverage" NAME="generador_email Coverage Results" MODIFIED="1778691999906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03" />
     <SUITE FILE_PATH="coverage/CursoPython$reserva_hotel.coverage" NAME="reserva_hotel Coverage Results" MODIFIED="1777916047367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/Ejercicio01" />
@@ -318,6 +332,7 @@
     <SUITE FILE_PATH="coverage/CursoPython$modificar_variables.coverage" NAME="modificar_variables Coverage Results" MODIFIED="1777821008993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
     <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales.coverage" NAME="caracteres_especiales Coverage Results" MODIFIED="1778334971622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$receta_cocina.coverage" NAME="receta_cocina Coverage Results" MODIFIED="1778688615364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_aritmeticos.coverage" NAME="operadores_aritmeticos Coverage Results" MODIFIED="1779211504025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$constantes.coverage" NAME="constantes Coverage Results" MODIFIED="1777917149850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
   </component>
 </project>
