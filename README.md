@@ -29,4 +29,4 @@
 * <ins> Sección 5 </ins> - Operadores en Python
 
   * CursoPython\05_Operadores
-    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/05_EntradaDatos/Ejercicios)  
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/05_Operadores/Ejercicios)  
