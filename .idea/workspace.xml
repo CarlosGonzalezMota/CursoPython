@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_aritmeticos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_asignacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_asignacion_compuestos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo01/descuento_vip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo02/prestamo_libros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo03/dentro_rango_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo04/ticket_venta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operador_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operador_or.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_comparacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Operadores/operadores_logicos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,8 @@
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
+    "Python.dentro_rango_not.executor": "Run",
+    "Python.descuento_vip.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
     "Python.funcion_bool.executor": "Run",
@@ -68,14 +74,20 @@
     "Python.modificar_variables.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
+    "Python.operador_not.executor": "Run",
+    "Python.operador_or.executor": "Run",
     "Python.operadores_aritmeticos.executor": "Run",
     "Python.operadores_asignacion.executor": "Run",
     "Python.operadores_asignacion_compuestos.executor": "Run",
+    "Python.operadores_comparacion.executor": "Run",
+    "Python.operadores_logicos.executor": "Run",
+    "Python.prestamo_libros.executor": "Run",
     "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
     "Python.reserva_hotel.executor": "Run",
     "Python.sistema_empleados.executor": "Run",
     "Python.slicing.executor": "Run",
+    "Python.ticket_venta.executor": "Run",
     "Python.tienda_online.executor": "Run",
     "Python.tipos_datos.executor": "Run",
     "Python.variables.executor": "Run",
@@ -102,8 +114,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\HolaMundo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.operadores_asignacion_compuestos">
-    <configuration name="generador_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ticket_venta">
+    <configuration name="dentro_rango_not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,14 +124,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03/generador_email.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo03/dentro_rango_not.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,32 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generador_id_unico (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02/generador_id_unico.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="operadores_aritmeticos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operador_not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +156,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_aritmeticos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operador_not.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores_asignacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operador_or" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +181,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_asignacion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operador_or.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores_asignacion_compuestos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prestamo_libros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,14 +199,39 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/operadores_asignacion_compuestos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo02/prestamo_libros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ticket_venta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo04/ticket_venta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.operadores_asignacion_compuestos" />
-        <item itemvalue="Python.operadores_asignacion" />
-        <item itemvalue="Python.operadores_aritmeticos" />
-        <item itemvalue="Python.generador_email" />
-        <item itemvalue="Python.generador_id_unico (1)" />
+        <item itemvalue="Python.ticket_venta" />
+        <item itemvalue="Python.dentro_rango_not" />
+        <item itemvalue="Python.operador_not" />
+        <item itemvalue="Python.prestamo_libros" />
+        <item itemvalue="Python.operador_or" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +272,8 @@
       <workItem from="1778421790034" duration="4556000" />
       <workItem from="1778685635519" duration="6757000" />
       <workItem from="1778793768229" duration="661000" />
-      <workItem from="1779210914980" duration="2021000" />
+      <workItem from="1779210914980" duration="2163000" />
+      <workItem from="1779544016968" duration="3773000" />
     </task>
     <servers />
   </component>
@@ -304,7 +317,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CursoPython$buscar_subcadenas.coverage" NAME="buscar_subcadenas Coverage Results" MODIFIED="1778424270115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$tienda_online.coverage" NAME="tienda_online Coverage Results" MODIFIED="1777916557911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/Ejercicio02" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_logicos.coverage" NAME="operadores_logicos Coverage Results" MODIFIED="1779545035297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$reemplazar.coverage" NAME="reemplazar Coverage Results" MODIFIED="1778423008875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
+    <SUITE FILE_PATH="coverage/CursoPython$operador_or.coverage" NAME="operador_or Coverage Results" MODIFIED="1779545690023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
+    <SUITE FILE_PATH="coverage/CursoPython$prestamo_libros.coverage" NAME="prestamo_libros Coverage Results" MODIFIED="1779545991911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo02" />
     <SUITE FILE_PATH="coverage/CursoPython$hola_mundo.coverage" NAME="hola_mundo Coverage Results" MODIFIED="1777620664885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HolaMundo" />
     <SUITE FILE_PATH="coverage/CursoPython$cadenas_multilinea.coverage" NAME="cadenas_multilinea Coverage Results" MODIFIED="1778334313798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$inmutabilidad_cadenas.coverage" NAME="inmutabilidad_cadenas Coverage Results" MODIFIED="1778336815327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
@@ -318,21 +334,26 @@
     <SUITE FILE_PATH="coverage/CursoPython$error_comun_bool.coverage" NAME="error_comun_bool Coverage Results" MODIFIED="1778686936119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$funcion_len.coverage" NAME="funcion_len Coverage Results" MODIFIED="1778336203486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales__1_.coverage" NAME="caracteres_especiales (1) Coverage Results" MODIFIED="1778335179963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
-    <SUITE FILE_PATH="coverage/CursoPython$operadores_asignacion_compuestos.coverage" NAME="operadores_asignacion_compuestos Coverage Results" MODIFIED="1779212930900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_asignacion_compuestos.coverage" NAME="operadores_asignacion_compuestos Coverage Results" MODIFIED="1779212940939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$multiplicacion_cadenas.coverage" NAME="multiplicacion_cadenas Coverage Results" MODIFIED="1778423509188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$generador_email.coverage" NAME="generador_email Coverage Results" MODIFIED="1778691999906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicios/Ejercicio03" />
+    <SUITE FILE_PATH="coverage/CursoPython$ticket_venta.coverage" NAME="ticket_venta Coverage Results" MODIFIED="1779547756092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo04" />
     <SUITE FILE_PATH="coverage/CursoPython$reserva_hotel.coverage" NAME="reserva_hotel Coverage Results" MODIFIED="1777916047367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables/Ejercicio01" />
     <SUITE FILE_PATH="coverage/CursoPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1777819660653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
     <SUITE FILE_PATH="coverage/CursoPython$funcion_bool.coverage" NAME="funcion_bool Coverage Results" MODIFIED="1778686593306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$entrada_datos.coverage" NAME="entrada_datos Coverage Results" MODIFIED="1778687458246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$generar_valores_aleatorios.coverage" NAME="generar_valores_aleatorios Coverage Results" MODIFIED="1778689377088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
     <SUITE FILE_PATH="coverage/CursoPython$conversion_tipos.coverage" NAME="conversion_tipos Coverage Results" MODIFIED="1778686049662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos" />
+    <SUITE FILE_PATH="coverage/CursoPython$operadores_comparacion.coverage" NAME="operadores_comparacion Coverage Results" MODIFIED="1779544664836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
     <SUITE FILE_PATH="coverage/CursoPython$generador_id_unico__1_.coverage" NAME="generador_id_unico (1) Coverage Results" MODIFIED="1778691198498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio02" />
     <SUITE FILE_PATH="coverage/CursoPython$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1778422677637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$modificar_variables.coverage" NAME="modificar_variables Coverage Results" MODIFIED="1777821008993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
     <SUITE FILE_PATH="coverage/CursoPython$caracteres_especiales.coverage" NAME="caracteres_especiales Coverage Results" MODIFIED="1778334971622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cadenas" />
     <SUITE FILE_PATH="coverage/CursoPython$receta_cocina.coverage" NAME="receta_cocina Coverage Results" MODIFIED="1778688615364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_EntradaDatos/Ejercicio01" />
+    <SUITE FILE_PATH="coverage/CursoPython$dentro_rango_not.coverage" NAME="dentro_rango_not Coverage Results" MODIFIED="1779546893588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo03" />
     <SUITE FILE_PATH="coverage/CursoPython$operadores_aritmeticos.coverage" NAME="operadores_aritmeticos Coverage Results" MODIFIED="1779211504025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
+    <SUITE FILE_PATH="coverage/CursoPython$descuento_vip.coverage" NAME="descuento_vip Coverage Results" MODIFIED="1779545392164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores/Ejemplos/Ejemplo01" />
     <SUITE FILE_PATH="coverage/CursoPython$constantes.coverage" NAME="constantes Coverage Results" MODIFIED="1777917149850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/CursoPython$operador_not.coverage" NAME="operador_not Coverage Results" MODIFIED="1779546384412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Operadores" />
   </component>
 </project>
