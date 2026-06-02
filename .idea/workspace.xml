@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio01/sistema_autenticacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio02/valor_dentro_rango.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio03/calculo_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Operadores/precedencia_operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/sentencia_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/sentencia_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/sentencia_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/valor_positivo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3D72zeYBHVnkbJAU1nMD3ZRNXcP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,6 +88,9 @@
     "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
     "Python.reserva_hotel.executor": "Run",
+    "Python.sentencia_elif.executor": "Debug",
+    "Python.sentencia_if.executor": "Run",
+    "Python.sentencia_if_else.executor": "Run",
     "Python.sistema_autenticacion (1).executor": "Run",
     "Python.sistema_empleados.executor": "Run",
     "Python.slicing.executor": "Run",
@@ -93,6 +100,7 @@
     "Python.validacion_rango.executor": "Run",
     "Python.validacion_usuario.executor": "Run",
     "Python.valor_dentro_rango (1).executor": "Run",
+    "Python.valor_positivo.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -102,7 +110,7 @@
     "git-widget-placeholder": "rama-curso-python",
     "last_opened_file_path": "C:/Users/Carlos/Desktop/Python/CursoPython",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,7 +126,7 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\HolaMundo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.precedencia_operadores">
+  <component name="RunManager" selected="Python.valor_positivo">
     <configuration name="calculo_area (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -128,8 +136,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio03" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
@@ -144,8 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculo_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
+    <configuration name="sentencia_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,14 +161,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio03" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\05_Operadores\Ejercicios\Ejercicio03\calculo_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_elif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,8 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="precedencia_operadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
+    <configuration name="sentencia_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,14 +186,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/precedencia_operadores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,8 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valor_dentro_rango (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
+    <configuration name="sentencia_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,14 +211,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio02" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio02/valor_dentro_rango.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,8 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valor_dentro_rango" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
+    <configuration name="valor_positivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,14 +236,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Operadores/Ejercicios/Ejercicio02" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\05_Operadores\Ejercicios\Ejercicio02\valor_dentro_rango.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/valor_positivo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,13 +253,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.sentencia_elif" />
+      <item itemvalue="Python.sentencia_if_else" />
+      <item itemvalue="Python.valor_positivo" />
+      <item itemvalue="Python.calculo_area (1)" />
+      <item itemvalue="Python.sentencia_if" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.precedencia_operadores" />
+        <item itemvalue="Python.valor_positivo" />
+        <item itemvalue="Python.sentencia_elif" />
+        <item itemvalue="Python.sentencia_if_else" />
+        <item itemvalue="Python.sentencia_if" />
         <item itemvalue="Python.calculo_area (1)" />
-        <item itemvalue="Python.calculo_area" />
-        <item itemvalue="Python.valor_dentro_rango (1)" />
-        <item itemvalue="Python.valor_dentro_rango" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +294,8 @@
       <workItem from="1778793768229" duration="661000" />
       <workItem from="1779210914980" duration="2163000" />
       <workItem from="1779544016968" duration="3863000" />
-      <workItem from="1779568819348" duration="2370000" />
+      <workItem from="1779568819348" duration="2572000" />
+      <workItem from="1780420749072" duration="60000" />
     </task>
     <servers />
   </component>
