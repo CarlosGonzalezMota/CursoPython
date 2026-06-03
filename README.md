@@ -33,4 +33,5 @@
 
 * <ins> Sección 6 </ins> - Sentencias Condicionales
   
-  * CursoPython\06_Condicionales  
+  * CursoPython\06_Condicionales
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/06_Condicionales/Ejercicios) 
