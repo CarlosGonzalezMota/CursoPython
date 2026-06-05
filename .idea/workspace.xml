@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio01/tienda_linea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejemplos/Ejemplo01/sistema_bancario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejemplos/Ejemplo02/casa_espejos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejemplos/Ejemplo03/aplicacion_salud_fitness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio02/reserva_hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio03/mayor_dos_numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio04/estacion_anio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio05/sistema_calificaciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio06/sistema_envios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio07/sistema_envios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Condicionales/operador_ternario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aplicacion_salud_fitness.executor": "Run",
     "Python.buscar_subcadenas.executor": "Run",
     "Python.cadenas.executor": "Run",
     "Python.cadenas_multilinea.executor": "Run",
@@ -54,6 +64,7 @@
     "Python.calculo_rectangulo.executor": "Run",
     "Python.caracteres_especiales (1).executor": "Run",
     "Python.caracteres_especiales.executor": "Run",
+    "Python.casa_espejos.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
@@ -61,6 +72,7 @@
     "Python.descuento_vip.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
+    "Python.estacion_anio.executor": "Run",
     "Python.funcion_bool.executor": "Run",
     "Python.funcion_len.executor": "Run",
     "Python.generador_email.executor": "Run",
@@ -69,11 +81,13 @@
     "Python.generar_valores_aleatorios.executor": "Run",
     "Python.hola_mundo.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
+    "Python.mayor_dos_numeros.executor": "Run",
     "Python.modificar_variables.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
     "Python.operador_not.executor": "Run",
     "Python.operador_or.executor": "Run",
+    "Python.operador_ternario.executor": "Run",
     "Python.operadores_aritmeticos.executor": "Run",
     "Python.operadores_asignacion.executor": "Run",
     "Python.operadores_asignacion_compuestos.executor": "Run",
@@ -88,7 +102,11 @@
     "Python.sentencia_if.executor": "Run",
     "Python.sentencia_if_else.executor": "Run",
     "Python.sistema_autenticacion (1).executor": "Run",
+    "Python.sistema_bancario.executor": "Run",
+    "Python.sistema_calificaciones.executor": "Run",
     "Python.sistema_empleados.executor": "Run",
+    "Python.sistema_envios (1).executor": "Run",
+    "Python.sistema_envios.executor": "Run",
     "Python.slicing.executor": "Run",
     "Python.ticket_venta.executor": "Run",
     "Python.tienda_linea.executor": "Run",
@@ -117,90 +135,15 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\06_Condicionales\Ejemplos\Ejemplo01" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\05_Operadores\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\02_Variables\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\04_EntradaDatos\Ejercicios" />
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
-      <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\HolaMundo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tienda_linea">
-    <configuration name="sentencia_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_elif.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sentencia_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_if.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sentencia_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/sentencia_if_else.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tienda_linea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sistema_envios (1)">
+    <configuration name="estacion_anio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,13 +152,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio01/tienda_linea.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio04/estacion_anio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +167,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valor_positivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mayor_dos_numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,15 +176,85 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio03" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/valor_positivo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio03/mayor_dos_numeros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema_calificaciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio05/sistema_calificaciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema_envios (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio07/sistema_envios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema_envios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio06/sistema_envios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,19 +264,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.tienda_linea" />
-      <item itemvalue="Python.sentencia_elif" />
-      <item itemvalue="Python.sentencia_if_else" />
-      <item itemvalue="Python.valor_positivo" />
-      <item itemvalue="Python.sentencia_if" />
+      <item itemvalue="Python.estacion_anio" />
+      <item itemvalue="Python.mayor_dos_numeros" />
+      <item itemvalue="Python.sistema_calificaciones" />
+      <item itemvalue="Python.sistema_envios" />
+      <item itemvalue="Python.sistema_envios (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tienda_linea" />
-        <item itemvalue="Python.valor_positivo" />
-        <item itemvalue="Python.sentencia_elif" />
-        <item itemvalue="Python.sentencia_if_else" />
-        <item itemvalue="Python.sentencia_if" />
+        <item itemvalue="Python.sistema_envios (1)" />
+        <item itemvalue="Python.sistema_envios" />
+        <item itemvalue="Python.sistema_calificaciones" />
+        <item itemvalue="Python.estacion_anio" />
+        <item itemvalue="Python.mayor_dos_numeros" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +342,11 @@
           <url>file://$PROJECT_DIR$/03_Cadenas/multiplicacion_cadenas.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_Condicionales/Ejercicios/Ejercicio05/sistema_calificaciones.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
