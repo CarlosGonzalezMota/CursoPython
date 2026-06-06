@@ -34,4 +34,13 @@
 * <ins> Sección 6 </ins> - Sentencias Condicionales
   
   * CursoPython\06_Condicionales
-    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/06_Condicionales/Ejercicios) 
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/06_Condicionales/Ejercicios)
+   
+* <ins> Sección 7 </ins> - Ciclos
+
+  * CursoPython\07_Ciclos
+    *  [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/07_Ciclos/Ejercicios)
+
+* <ins> Sección 8 </ins> - Colecciones
+
+  * CursoPython\08_Colecciones
