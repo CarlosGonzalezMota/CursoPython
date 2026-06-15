@@ -44,3 +44,4 @@
 * <ins> Sección 8 </ins> - Colecciones
 
   * CursoPython\08_Colecciones
+    *  [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/08_Colecciones/Ejercicios)
