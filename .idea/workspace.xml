@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo02/desempaquetado_tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo03/combinacion_listas_tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo04/lista_suscriptores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/operaciones_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/diccionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.agenda_contactos.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
     "Python.buscar_subcadenas.executor": "Run",
     "Python.cadenas.executor": "Run",
@@ -75,6 +74,7 @@
     "Python.descuento_vip.executor": "Run",
     "Python.desempaquetado_tuplas.executor": "Run",
     "Python.dibujar_triangulo.executor": "Run",
+    "Python.diccionarios.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
     "Python.estacion_anio.executor": "Run",
@@ -85,11 +85,13 @@
     "Python.generador_id.executor": "Run",
     "Python.generador_id_unico (1).executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
+    "Python.gestion_inventario.executor": "Run",
     "Python.hola_mundo.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
     "Python.iterar_listas.executor": "Run",
     "Python.lista_suscriptores.executor": "Run",
     "Python.listas.executor": "Run",
+    "Python.listas_diccionarios.executor": "Run",
     "Python.mayor_dos_numeros.executor": "Run",
     "Python.menu_iterativo.executor": "Run",
     "Python.modificar_variables.executor": "Run",
@@ -161,8 +163,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lista_suscriptores">
-    <configuration name="combinacion_listas_tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gestion_inventario">
+    <configuration name="agenda_contactos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,13 +173,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo03/combinacion_listas_tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desempaquetado_tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,13 +197,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo02/desempaquetado_tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/diccionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gestion_inventario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operaciones_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="listas_diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,37 +269,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/operaciones_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.combinacion_listas_tuplas" />
-      <item itemvalue="Python.desempaquetado_tuplas" />
+      <item itemvalue="Python.agenda_contactos" />
+      <item itemvalue="Python.diccionarios" />
+      <item itemvalue="Python.gestion_inventario" />
+      <item itemvalue="Python.listas_diccionarios" />
       <item itemvalue="Python.lista_suscriptores" />
-      <item itemvalue="Python.operaciones_set" />
-      <item itemvalue="Python.sets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gestion_inventario" />
+        <item itemvalue="Python.listas_diccionarios" />
+        <item itemvalue="Python.agenda_contactos" />
+        <item itemvalue="Python.diccionarios" />
         <item itemvalue="Python.lista_suscriptores" />
-        <item itemvalue="Python.operaciones_set" />
-        <item itemvalue="Python.sets" />
-        <item itemvalue="Python.combinacion_listas_tuplas" />
-        <item itemvalue="Python.desempaquetado_tuplas" />
       </list>
     </recent_temporary>
   </component>
