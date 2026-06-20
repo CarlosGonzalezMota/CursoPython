@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo01/suma_iterativa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo02/menu_iterativo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo03/validacion_formulario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo04/repeticion_mensaje.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio01/cajero_automatico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio02/calculadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio03/creacion_contraseña.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio04/numero_secreto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio05/dibujar_triangulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/ciclo_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/ciclo_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/ciclos_break_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Ciclos/for_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Colecciones/diccionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.agenda_contactos.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
     "Python.buscar_subcadenas.executor": "Run",
     "Python.cadenas.executor": "Run",
@@ -74,13 +65,16 @@
     "Python.ciclo_for.executor": "Run",
     "Python.ciclo_while.executor": "Run",
     "Python.ciclos_break_continue.executor": "Run",
+    "Python.combinacion_listas_tuplas.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
     "Python.creacion_contraseña.executor": "Run",
     "Python.dentro_rango_not.executor": "Run",
     "Python.descuento_vip.executor": "Run",
+    "Python.desempaquetado_tuplas.executor": "Run",
     "Python.dibujar_triangulo.executor": "Run",
+    "Python.diccionarios.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
     "Python.estacion_anio.executor": "Run",
@@ -91,14 +85,20 @@
     "Python.generador_id.executor": "Run",
     "Python.generador_id_unico (1).executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
+    "Python.gestion_inventario.executor": "Run",
     "Python.hola_mundo.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
+    "Python.iterar_listas.executor": "Run",
+    "Python.lista_suscriptores.executor": "Run",
+    "Python.listas.executor": "Run",
+    "Python.listas_diccionarios.executor": "Run",
     "Python.mayor_dos_numeros.executor": "Run",
     "Python.menu_iterativo.executor": "Run",
     "Python.modificar_variables.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
     "Python.numero_secreto.executor": "Run",
+    "Python.operaciones_set.executor": "Run",
     "Python.operador_not.executor": "Run",
     "Python.operador_or.executor": "Run",
     "Python.operador_ternario.executor": "Run",
@@ -107,8 +107,10 @@
     "Python.operadores_asignacion_compuestos.executor": "Run",
     "Python.operadores_comparacion.executor": "Run",
     "Python.operadores_logicos.executor": "Run",
+    "Python.playlist_canciones.executor": "Run",
     "Python.precedencia_operadores.executor": "Run",
     "Python.prestamo_libros.executor": "Run",
+    "Python.promedio_calificaciones.executor": "Run",
     "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
     "Python.repeticion_mensaje.executor": "Run",
@@ -116,6 +118,7 @@
     "Python.sentencia_elif.executor": "Debug",
     "Python.sentencia_if.executor": "Run",
     "Python.sentencia_if_else.executor": "Run",
+    "Python.sets.executor": "Run",
     "Python.sistema_autenticacion (1).executor": "Run",
     "Python.sistema_bancario.executor": "Run",
     "Python.sistema_calificaciones.executor": "Run",
@@ -128,6 +131,7 @@
     "Python.tienda_linea.executor": "Run",
     "Python.tienda_online.executor": "Run",
     "Python.tipos_datos.executor": "Run",
+    "Python.tuplas.executor": "Run",
     "Python.validacion_formulario.executor": "Run",
     "Python.validacion_rango.executor": "Run",
     "Python.validacion_usuario.executor": "Run",
@@ -159,8 +163,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ciclos_break_continue">
-    <configuration name="ciclos_break_continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gestion_inventario">
+    <configuration name="agenda_contactos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,13 +173,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Ciclos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Ciclos/ciclos_break_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dibujar_triangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,13 +197,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Ciclos/Ejercicios/Ejercicio05/dibujar_triangulo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/diccionarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gestion_inventario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,13 +221,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Ciclos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Ciclos/for_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeticion_mensaje" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lista_suscriptores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,13 +245,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo04/repeticion_mensaje.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo04/lista_suscriptores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="validacion_formulario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="listas_diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,13 +269,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Ciclos/Ejemplos/Ejemplo03/validacion_formulario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ciclos_break_continue" />
-      <item itemvalue="Python.dibujar_triangulo" />
-      <item itemvalue="Python.for_range" />
-      <item itemvalue="Python.repeticion_mensaje" />
-      <item itemvalue="Python.validacion_formulario" />
+      <item itemvalue="Python.agenda_contactos" />
+      <item itemvalue="Python.diccionarios" />
+      <item itemvalue="Python.gestion_inventario" />
+      <item itemvalue="Python.listas_diccionarios" />
+      <item itemvalue="Python.lista_suscriptores" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ciclos_break_continue" />
-        <item itemvalue="Python.dibujar_triangulo" />
-        <item itemvalue="Python.repeticion_mensaje" />
-        <item itemvalue="Python.for_range" />
-        <item itemvalue="Python.validacion_formulario" />
+        <item itemvalue="Python.gestion_inventario" />
+        <item itemvalue="Python.listas_diccionarios" />
+        <item itemvalue="Python.agenda_contactos" />
+        <item itemvalue="Python.diccionarios" />
+        <item itemvalue="Python.lista_suscriptores" />
       </list>
     </recent_temporary>
   </component>
