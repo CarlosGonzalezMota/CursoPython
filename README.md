@@ -45,3 +45,7 @@
 
   * CursoPython\08_Colecciones
     *  [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/08_Colecciones/Ejercicios)
+
+* <ins> Sección 9 </ins> - Funciones
+    
+    * CursoPython\09_Funciones
