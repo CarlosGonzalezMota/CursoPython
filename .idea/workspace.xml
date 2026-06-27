@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09_Funciones/sumar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/modulo_funcion_sumar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Funciones/funciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Funciones/funciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Funciones/sumar.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Funciones/sumar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +94,7 @@
     "Python.mayor_dos_numeros.executor": "Run",
     "Python.menu_iterativo.executor": "Run",
     "Python.modificar_variables.executor": "Run",
+    "Python.modulo_funcion_sumar.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
     "Python.numero_secreto.executor": "Run",
@@ -164,30 +165,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.sumar">
-    <configuration name="agenda_contactos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -260,6 +237,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="modulo_funcion_sumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/modulo_funcion_sumar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -285,8 +286,8 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.modulo_funcion_sumar" />
       <item itemvalue="Python.sumar" />
-      <item itemvalue="Python.agenda_contactos" />
       <item itemvalue="Python.funciones" />
       <item itemvalue="Python.gestion_inventario" />
       <item itemvalue="Python.listas_diccionarios" />
@@ -294,10 +295,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.sumar" />
+        <item itemvalue="Python.modulo_funcion_sumar" />
         <item itemvalue="Python.funciones" />
         <item itemvalue="Python.gestion_inventario" />
         <item itemvalue="Python.listas_diccionarios" />
-        <item itemvalue="Python.agenda_contactos" />
       </list>
     </recent_temporary>
   </component>

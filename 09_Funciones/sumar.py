@@ -1,9 +1,7 @@
-print('*** Funciçon sumar ***')
+# import modulo_funcion_sumar
+from modulo_funcion_sumar import sumar
 
-# Definimos la función
-def sumar(a, b):
-    resultado_suma = a + b
-    return resultado_suma
+print('*** Función sumar ***')
 
 # Llamar desde el programa principal
 resultado_funcion = sumar(8, 5)
