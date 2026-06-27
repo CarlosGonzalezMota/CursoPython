@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo01/ejemplo_coordenadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/alcanze_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/regresar_varios_valores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo02/imprimir_detalles_persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo03/funcion_par.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo04/funciones_recursivas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/argumentos_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/argumentos_variables_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/suma_argumentos_variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Funciones/argumentos_por_nombres.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Funciones/argumentos_por_nombres.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,9 @@
     &quot;accountId&quot;: &quot;f4507e28-fc79-49e3-8d1f-9d6158a72bd7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -51,8 +56,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.agenda_contactos.executor": "Run",
+    "Python.alcanze_variables.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
     "Python.argumentos_por_nombres.executor": "Run",
+    "Python.argumentos_variables.executor": "Run",
+    "Python.argumentos_variables_kwargs.executor": "Run",
     "Python.buscar_subcadenas.executor": "Run",
     "Python.cadenas.executor": "Run",
     "Python.cadenas_multilinea.executor": "Run",
@@ -83,13 +91,16 @@
     "Python.for_range.executor": "Run",
     "Python.funcion_bool.executor": "Run",
     "Python.funcion_len.executor": "Run",
+    "Python.funcion_par.executor": "Run",
     "Python.funciones.executor": "Run",
+    "Python.funciones_recursivas.executor": "Run",
     "Python.generador_email.executor": "Run",
     "Python.generador_id.executor": "Run",
     "Python.generador_id_unico (1).executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
     "Python.gestion_inventario.executor": "Run",
     "Python.hola_mundo.executor": "Run",
+    "Python.imprimir_detalles_persona.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
     "Python.iterar_listas.executor": "Run",
     "Python.lista_suscriptores.executor": "Run",
@@ -131,6 +142,7 @@
     "Python.sistema_envios (1).executor": "Run",
     "Python.sistema_envios.executor": "Run",
     "Python.slicing.executor": "Run",
+    "Python.suma_argumentos_variables.executor": "Run",
     "Python.suma_iterativa.executor": "Run",
     "Python.sumar.executor": "Run",
     "Python.ticket_venta.executor": "Run",
@@ -169,8 +181,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ejemplo_coordenadas">
-    <configuration name="argumentos_por_nombres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.funciones_recursivas">
+    <configuration name="argumentos_variables_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +197,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/argumentos_por_nombres.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/argumentos_variables_kwargs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejemplo_coordenadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcion_par" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,13 +215,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo01/ejemplo_coordenadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo03/funcion_par.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +230,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modulo_funcion_sumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones_recursivas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo04/funciones_recursivas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imprimir_detalles_persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo02/imprimir_detalles_persona.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suma_argumentos_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,55 +293,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/modulo_funcion_sumar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regresar_varios_valores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/regresar_varios_valores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/sumar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/suma_argumentos_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,19 +303,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.argumentos_por_nombres" />
-      <item itemvalue="Python.ejemplo_coordenadas" />
-      <item itemvalue="Python.modulo_funcion_sumar" />
-      <item itemvalue="Python.regresar_varios_valores" />
-      <item itemvalue="Python.sumar" />
+      <item itemvalue="Python.argumentos_variables_kwargs" />
+      <item itemvalue="Python.funcion_par" />
+      <item itemvalue="Python.funciones_recursivas" />
+      <item itemvalue="Python.imprimir_detalles_persona" />
+      <item itemvalue="Python.suma_argumentos_variables" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejemplo_coordenadas" />
-        <item itemvalue="Python.regresar_varios_valores" />
-        <item itemvalue="Python.argumentos_por_nombres" />
-        <item itemvalue="Python.sumar" />
-        <item itemvalue="Python.modulo_funcion_sumar" />
+        <item itemvalue="Python.funciones_recursivas" />
+        <item itemvalue="Python.funcion_par" />
+        <item itemvalue="Python.imprimir_detalles_persona" />
+        <item itemvalue="Python.suma_argumentos_variables" />
+        <item itemvalue="Python.argumentos_variables_kwargs" />
       </list>
     </recent_temporary>
   </component>
