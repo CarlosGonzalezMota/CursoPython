@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Colecciones/diccionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo05/factorial_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio01/potencia_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02/sistema_inventarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03/maquina_snacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio04/calculadora_funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio05/calculadora_impuestos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio06/conversion_temperatura.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,9 @@
     &quot;accountId&quot;: &quot;f4507e28-fc79-49e3-8d1f-9d6158a72bd7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -51,12 +58,18 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.agenda_contactos.executor": "Run",
+    "Python.alcanze_variables.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
+    "Python.argumentos_por_nombres.executor": "Run",
+    "Python.argumentos_variables.executor": "Run",
+    "Python.argumentos_variables_kwargs.executor": "Run",
     "Python.buscar_subcadenas.executor": "Run",
     "Python.cadenas.executor": "Run",
     "Python.cadenas_multilinea.executor": "Run",
     "Python.cajero_automatico.executor": "Run",
     "Python.calculadora.executor": "Run",
+    "Python.calculadora_funciones.executor": "Run",
+    "Python.calculadora_impuestos.executor": "Run",
     "Python.calculo_area (1).executor": "Run",
     "Python.calculo_rectangulo.executor": "Run",
     "Python.caracteres_especiales (1).executor": "Run",
@@ -68,6 +81,7 @@
     "Python.combinacion_listas_tuplas.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
+    "Python.conversion_temperatura.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
     "Python.creacion_contraseña.executor": "Run",
     "Python.dentro_rango_not.executor": "Run",
@@ -75,26 +89,34 @@
     "Python.desempaquetado_tuplas.executor": "Run",
     "Python.dibujar_triangulo.executor": "Run",
     "Python.diccionarios.executor": "Run",
+    "Python.ejemplo_coordenadas.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
     "Python.estacion_anio.executor": "Run",
+    "Python.factorial_numero.executor": "Run",
     "Python.for_range.executor": "Run",
     "Python.funcion_bool.executor": "Run",
     "Python.funcion_len.executor": "Run",
+    "Python.funcion_par.executor": "Run",
+    "Python.funciones.executor": "Run",
+    "Python.funciones_recursivas.executor": "Run",
     "Python.generador_email.executor": "Run",
     "Python.generador_id.executor": "Run",
     "Python.generador_id_unico (1).executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
     "Python.gestion_inventario.executor": "Run",
     "Python.hola_mundo.executor": "Run",
+    "Python.imprimir_detalles_persona.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
     "Python.iterar_listas.executor": "Run",
     "Python.lista_suscriptores.executor": "Run",
     "Python.listas.executor": "Run",
     "Python.listas_diccionarios.executor": "Run",
+    "Python.maquina_snacks.executor": "Run",
     "Python.mayor_dos_numeros.executor": "Run",
     "Python.menu_iterativo.executor": "Run",
     "Python.modificar_variables.executor": "Run",
+    "Python.modulo_funcion_sumar.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
     "Python.nombres_variables.executor": "Run",
     "Python.numero_secreto.executor": "Run",
@@ -108,11 +130,13 @@
     "Python.operadores_comparacion.executor": "Run",
     "Python.operadores_logicos.executor": "Run",
     "Python.playlist_canciones.executor": "Run",
+    "Python.potencia_numero.executor": "Run",
     "Python.precedencia_operadores.executor": "Run",
     "Python.prestamo_libros.executor": "Run",
     "Python.promedio_calificaciones.executor": "Run",
     "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
+    "Python.regresar_varios_valores.executor": "Run",
     "Python.repeticion_mensaje.executor": "Run",
     "Python.reserva_hotel.executor": "Run",
     "Python.sentencia_elif.executor": "Debug",
@@ -125,8 +149,11 @@
     "Python.sistema_empleados.executor": "Run",
     "Python.sistema_envios (1).executor": "Run",
     "Python.sistema_envios.executor": "Run",
+    "Python.sistema_inventarios.executor": "Run",
     "Python.slicing.executor": "Run",
+    "Python.suma_argumentos_variables.executor": "Run",
     "Python.suma_iterativa.executor": "Run",
+    "Python.sumar.executor": "Run",
     "Python.ticket_venta.executor": "Run",
     "Python.tienda_linea.executor": "Run",
     "Python.tienda_online.executor": "Run",
@@ -163,8 +190,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gestion_inventario">
-    <configuration name="agenda_contactos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.conversion_temperatura">
+    <configuration name="calculadora_funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,13 +200,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo05/agenda_contactos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio04/calculadora_funciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculadora_impuestos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,13 +224,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio05/calculadora_impuestos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gestion_inventario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="conversion_temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,13 +248,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejercicios/Ejercicio02/gestion_inventario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio06/conversion_temperatura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lista_suscriptores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maquina_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,13 +272,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo04/lista_suscriptores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03/maquina_snacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas_diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sistema_inventarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,13 +296,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Colecciones/Ejemplos/Ejemplo06/listas_diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02/sistema_inventarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +312,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.agenda_contactos" />
-      <item itemvalue="Python.diccionarios" />
-      <item itemvalue="Python.gestion_inventario" />
-      <item itemvalue="Python.listas_diccionarios" />
-      <item itemvalue="Python.lista_suscriptores" />
+      <item itemvalue="Python.calculadora_funciones" />
+      <item itemvalue="Python.calculadora_impuestos" />
+      <item itemvalue="Python.conversion_temperatura" />
+      <item itemvalue="Python.maquina_snacks" />
+      <item itemvalue="Python.sistema_inventarios" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gestion_inventario" />
-        <item itemvalue="Python.listas_diccionarios" />
-        <item itemvalue="Python.agenda_contactos" />
-        <item itemvalue="Python.diccionarios" />
-        <item itemvalue="Python.lista_suscriptores" />
+        <item itemvalue="Python.conversion_temperatura" />
+        <item itemvalue="Python.calculadora_impuestos" />
+        <item itemvalue="Python.calculadora_funciones" />
+        <item itemvalue="Python.maquina_snacks" />
+        <item itemvalue="Python.sistema_inventarios" />
       </list>
     </recent_temporary>
   </component>
