@@ -50,3 +50,8 @@
     
   * CursoPython\09_Funciones
     * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/09_Funciones/Ejercicios)
+
+* <ins> Sección 10 </ins> - Clases y Objetos
+    
+  * CursoPython\10_Clases_Objetos
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_Clases_Objetos/Ejercicios)
