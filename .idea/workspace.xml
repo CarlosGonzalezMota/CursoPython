@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejemplos/Ejemplo05/factorial_numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio01/potencia_numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02/sistema_inventarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03/maquina_snacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio04/calculadora_funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio05/calculadora_impuestos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio06/conversion_temperatura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio01/clase_aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/persona.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Persona.executor": "Run",
     "Python.agenda_contactos.executor": "Run",
     "Python.alcanze_variables.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
@@ -78,6 +73,7 @@
     "Python.ciclo_for.executor": "Run",
     "Python.ciclo_while.executor": "Run",
     "Python.ciclos_break_continue.executor": "Run",
+    "Python.clase_aritmetica.executor": "Run",
     "Python.combinacion_listas_tuplas.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
@@ -190,7 +186,7 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.conversion_temperatura">
+  <component name="RunManager" selected="Python.clase_aritmetica">
     <configuration name="calculadora_funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -239,6 +235,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="clase_aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio01/clase_aritmetica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="conversion_temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
@@ -263,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maquina_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,37 +292,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio03/maquina_snacks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sistema_inventarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Funciones/Ejercicios/Ejercicio02/sistema_inventarios.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\10_Clases_Objetos\persona.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +308,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.clase_aritmetica" />
+      <item itemvalue="Python.persona" />
       <item itemvalue="Python.calculadora_funciones" />
       <item itemvalue="Python.calculadora_impuestos" />
       <item itemvalue="Python.conversion_temperatura" />
-      <item itemvalue="Python.maquina_snacks" />
-      <item itemvalue="Python.sistema_inventarios" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.clase_aritmetica" />
+        <item itemvalue="Python.persona" />
         <item itemvalue="Python.conversion_temperatura" />
         <item itemvalue="Python.calculadora_impuestos" />
         <item itemvalue="Python.calculadora_funciones" />
-        <item itemvalue="Python.maquina_snacks" />
-        <item itemvalue="Python.sistema_inventarios" />
       </list>
     </recent_temporary>
   </component>
