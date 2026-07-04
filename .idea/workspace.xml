@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo02/contador_personas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/empleado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/empresa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/sistema_empleados_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/biblioteca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/libro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/sistema_biblioteca_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Clases_Objetos/atributos_clase_instancia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejemplos/Ejemplo01 - Polimorfismo/polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/computadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/dispositivo_entrada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/mundo_pc_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/orden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/raton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/teclado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/clase_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Herencia/herencia.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "author": "CarlosGonzalezMota"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "author": "CarlosGonzalezMota"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CarlosGonzalezMota/CursoPython.git&quot;,
@@ -87,8 +89,10 @@
     "Python.ciclo_while.executor": "Run",
     "Python.ciclos_break_continue.executor": "Run",
     "Python.clase_aritmetica.executor": "Run",
+    "Python.clase_object.executor": "Run",
     "Python.coche.executor": "Run",
     "Python.combinacion_listas_tuplas.executor": "Run",
+    "Python.computadora.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
     "Python.contador_personas.executor": "Run",
@@ -117,6 +121,7 @@
     "Python.generador_id_unico (1).executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
     "Python.gestion_inventario.executor": "Run",
+    "Python.herencia.executor": "Run",
     "Python.hola_mundo.executor": "Run",
     "Python.imprimir_detalles_persona.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
@@ -129,7 +134,9 @@
     "Python.menu_iterativo.executor": "Run",
     "Python.modificar_variables.executor": "Run",
     "Python.modulo_funcion_sumar.executor": "Run",
+    "Python.monitor.executor": "Run",
     "Python.multiplicacion_cadenas.executor": "Run",
+    "Python.mundo_pc_app.executor": "Run",
     "Python.nombres_variables.executor": "Run",
     "Python.numero_secreto.executor": "Run",
     "Python.operaciones_set.executor": "Run",
@@ -142,10 +149,12 @@
     "Python.operadores_comparacion.executor": "Run",
     "Python.operadores_logicos.executor": "Run",
     "Python.playlist_canciones.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
     "Python.potencia_numero.executor": "Run",
     "Python.precedencia_operadores.executor": "Run",
     "Python.prestamo_libros.executor": "Run",
     "Python.promedio_calificaciones.executor": "Run",
+    "Python.raton.executor": "Run",
     "Python.receta_cocina.executor": "Run",
     "Python.reemplazar.executor": "Run",
     "Python.regresar_varios_valores.executor": "Run",
@@ -168,6 +177,7 @@
     "Python.suma_argumentos_variables.executor": "Run",
     "Python.suma_iterativa.executor": "Run",
     "Python.sumar.executor": "Run",
+    "Python.teclado.executor": "Run",
     "Python.ticket_venta.executor": "Run",
     "Python.tienda_linea.executor": "Run",
     "Python.tienda_online.executor": "Run",
@@ -204,8 +214,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sistema_biblioteca_app">
-    <configuration name="atributos_clase_instancia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mundo_pc_app">
+    <configuration name="computadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,13 +224,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/atributos_clase_instancia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/computadora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="contador_personas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,13 +248,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo02/contador_personas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/monitor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="encapsulamiento_aritmetico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundo_pc_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,13 +272,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio02/encapsulamiento_aritmetico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/mundo_pc_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sistema_biblioteca_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="raton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,13 +296,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/sistema_biblioteca_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/raton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sistema_empleados_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teclado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,13 +320,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/sistema_empleados_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/teclado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,19 +336,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.atributos_clase_instancia" />
-      <item itemvalue="Python.contador_personas" />
-      <item itemvalue="Python.encapsulamiento_aritmetico" />
-      <item itemvalue="Python.sistema_biblioteca_app" />
-      <item itemvalue="Python.sistema_empleados_app" />
+      <item itemvalue="Python.computadora" />
+      <item itemvalue="Python.monitor" />
+      <item itemvalue="Python.mundo_pc_app" />
+      <item itemvalue="Python.raton" />
+      <item itemvalue="Python.teclado" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sistema_biblioteca_app" />
-        <item itemvalue="Python.sistema_empleados_app" />
-        <item itemvalue="Python.contador_personas" />
-        <item itemvalue="Python.atributos_clase_instancia" />
-        <item itemvalue="Python.encapsulamiento_aritmetico" />
+        <item itemvalue="Python.mundo_pc_app" />
+        <item itemvalue="Python.computadora" />
+        <item itemvalue="Python.monitor" />
+        <item itemvalue="Python.teclado" />
+        <item itemvalue="Python.raton" />
       </list>
     </recent_temporary>
   </component>
