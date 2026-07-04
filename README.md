@@ -58,5 +58,5 @@
 
 * <ins> Sección 11 </ins> - Herencia
     
-  * CursoPython\10_Herencia
-    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_Herencia/Ejercicios)
+  * CursoPython\11_Herencia
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/11_Herencia/Ejercicios)
