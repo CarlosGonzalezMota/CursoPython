@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/comprension_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funcion_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/manejo_cadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/ordenamiento.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo01/coche.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejemplos/Ejemplo01/coche.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo02/contador_personas.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejemplos/Ejemplo02/contador_personas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/empleado.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejemplos/Ejemplo03/empleado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/empresa.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejemplos/Ejemplo03/empresa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejemplos/Ejemplo03/sistema_empleados_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejemplos/Ejemplo03/sistema_empleados_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio01/clase_aritmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejercicios/Ejercicio01/clase_aritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio02/encapsulamiento_aritmetico.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejercicios/Ejercicio02/encapsulamiento_aritmetico.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/biblioteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejercicios/Ejercicio03/biblioteca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/libro.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejercicios/Ejercicio03/libro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/Ejercicios/Ejercicio03/sistema_biblioteca_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/Ejercicios/Ejercicio03/sistema_biblioteca_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/atributos_clase_instancia.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/atributos_clase_instancia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Clases_Objetos/persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClasesObjetos/persona.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
+      "state": "OPEN",
+      "author": "CarlosGonzalezMota"
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
-  }
-}</component>
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CarlosGonzalezMota/CursoPython.git&quot;,
@@ -65,146 +59,156 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Persona.executor&quot;: &quot;Run&quot;,
-    &quot;Python.agenda_contactos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.alcanze_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aplicacion_salud_fitness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.argumentos_por_nombres.executor&quot;: &quot;Run&quot;,
-    &quot;Python.argumentos_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.argumentos_variables_kwargs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atributos_clase_instancia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.buscar_subcadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cadenas_multilinea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cajero_automatico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculadora_funciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculadora_impuestos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculo_area (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculo_rectangulo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caracteres_especiales (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.caracteres_especiales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.casa_espejos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ciclo_for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ciclo_while.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ciclos_break_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clase_aritmetica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clase_object.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coche.executor&quot;: &quot;Run&quot;,
-    &quot;Python.combinacion_listas_tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.computadora.executor&quot;: &quot;Run&quot;,
-    &quot;Python.concatenacion_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constantes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.contador_personas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversion_temperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversion_tipos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.creacion_contraseña.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dentro_rango_not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.descuento_vip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desempaquetado_tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dibujar_triangulo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.diccionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejemplo_coordenadas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encapsulamiento_aritmetico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.entrada_datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.error_comun_bool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.estacion_anio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial_numero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcion_bool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcion_len.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcion_par.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funciones_recursivas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_email.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_id.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generador_id_unico (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.generar_valores_aleatorios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gestion_inventario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hola_mundo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.imprimir_detalles_persona.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inmutabilidad_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterar_listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lista_suscriptores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listas_diccionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maquina_snacks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mayor_dos_numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.menu_iterativo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modificar_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modulo_funcion_sumar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.monitor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplicacion_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mundo_pc_app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nombres_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numero_secreto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operaciones_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operador_not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operador_or.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operador_ternario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_aritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_asignacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_asignacion_compuestos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_comparacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_logicos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playlist_canciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.potencia_numero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.precedencia_operadores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prestamo_libros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.promedio_calificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.raton.executor&quot;: &quot;Run&quot;,
-    &quot;Python.receta_cocina.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reemplazar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regresar_varios_valores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.repeticion_mensaje.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reserva_hotel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sentencia_elif.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sentencia_if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sentencia_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_autenticacion (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_bancario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_biblioteca_app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_calificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_empleados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_empleados_app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_envios (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_envios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_inventarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma_argumentos_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma_iterativa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teclado.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ticket_venta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tienda_linea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tienda_online.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tipos_datos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validacion_formulario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validacion_rango.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validacion_usuario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.valor_dentro_rango (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.valor_positivo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama-curso-python&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Carlos/Desktop/Python/CursoPython&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Persona.executor": "Run",
+    "Python.agenda_contactos.executor": "Run",
+    "Python.alcanze_variables.executor": "Run",
+    "Python.aplicacion_salud_fitness.executor": "Run",
+    "Python.argumentos_por_nombres.executor": "Run",
+    "Python.argumentos_variables.executor": "Run",
+    "Python.argumentos_variables_kwargs.executor": "Run",
+    "Python.atributos_clase_instancia.executor": "Run",
+    "Python.buscar_subcadenas.executor": "Run",
+    "Python.cadenas.executor": "Run",
+    "Python.cadenas_multilinea.executor": "Run",
+    "Python.cajero_automatico.executor": "Run",
+    "Python.calculadora.executor": "Run",
+    "Python.calculadora_funciones.executor": "Run",
+    "Python.calculadora_impuestos.executor": "Run",
+    "Python.calculo_area (1).executor": "Run",
+    "Python.calculo_rectangulo.executor": "Run",
+    "Python.caracteres_especiales (1).executor": "Run",
+    "Python.caracteres_especiales.executor": "Run",
+    "Python.casa_espejos.executor": "Run",
+    "Python.ciclo_for.executor": "Run",
+    "Python.ciclo_while.executor": "Run",
+    "Python.ciclos_break_continue.executor": "Run",
+    "Python.clase_aritmetica.executor": "Run",
+    "Python.clase_object.executor": "Run",
+    "Python.coche.executor": "Run",
+    "Python.combinacion_listas_tuplas.executor": "Run",
+    "Python.comprension_listas.executor": "Run",
+    "Python.computadora.executor": "Run",
+    "Python.concatenacion_cadenas.executor": "Run",
+    "Python.constantes.executor": "Run",
+    "Python.contador_personas.executor": "Run",
+    "Python.conversion_temperatura.executor": "Run",
+    "Python.conversion_tipos.executor": "Run",
+    "Python.creacion_contraseña.executor": "Run",
+    "Python.decoradores.executor": "Run",
+    "Python.dentro_rango_not.executor": "Run",
+    "Python.descuento_vip.executor": "Run",
+    "Python.desempaquetado_tuplas.executor": "Run",
+    "Python.dibujar_triangulo.executor": "Run",
+    "Python.diccionarios.executor": "Run",
+    "Python.ejemplo_coordenadas.executor": "Run",
+    "Python.encapsulamiento_aritmetico.executor": "Run",
+    "Python.entrada_datos.executor": "Run",
+    "Python.error_comun_bool.executor": "Run",
+    "Python.estacion_anio.executor": "Run",
+    "Python.excepciones.executor": "Run",
+    "Python.expresiones_generadoras.executor": "Run",
+    "Python.factorial_numero.executor": "Run",
+    "Python.for_range.executor": "Run",
+    "Python.funcion_bool.executor": "Run",
+    "Python.funcion_len.executor": "Run",
+    "Python.funcion_par.executor": "Run",
+    "Python.funcion_zip.executor": "Run",
+    "Python.funciones.executor": "Run",
+    "Python.funciones_lambda.executor": "Run",
+    "Python.funciones_recursivas.executor": "Run",
+    "Python.funciones_suma_next.executor": "Run",
+    "Python.generador_email.executor": "Run",
+    "Python.generador_id.executor": "Run",
+    "Python.generador_id_unico (1).executor": "Run",
+    "Python.generadores.executor": "Run",
+    "Python.generar_valores_aleatorios.executor": "Run",
+    "Python.gestion_inventario.executor": "Run",
+    "Python.herencia.executor": "Run",
+    "Python.hola_mundo.executor": "Run",
+    "Python.imprimir_detalles_persona.executor": "Run",
+    "Python.inmutabilidad_cadenas.executor": "Run",
+    "Python.iterar_listas.executor": "Run",
+    "Python.lista_suscriptores.executor": "Run",
+    "Python.listas.executor": "Run",
+    "Python.listas_diccionarios.executor": "Run",
+    "Python.manejo_cadenas.executor": "Run",
+    "Python.maquina_snacks.executor": "Run",
+    "Python.mayor_dos_numeros.executor": "Run",
+    "Python.menu_iterativo.executor": "Run",
+    "Python.modificar_variables.executor": "Run",
+    "Python.modulo_funcion_sumar.executor": "Run",
+    "Python.monitor.executor": "Run",
+    "Python.multiplicacion_cadenas.executor": "Run",
+    "Python.mundo_pc_app.executor": "Run",
+    "Python.nombres_variables.executor": "Run",
+    "Python.numero_secreto.executor": "Run",
+    "Python.operaciones_set.executor": "Run",
+    "Python.operador_not.executor": "Run",
+    "Python.operador_or.executor": "Run",
+    "Python.operador_ternario.executor": "Run",
+    "Python.operadores_aritmeticos.executor": "Run",
+    "Python.operadores_asignacion.executor": "Run",
+    "Python.operadores_asignacion_compuestos.executor": "Run",
+    "Python.operadores_comparacion.executor": "Run",
+    "Python.operadores_logicos.executor": "Run",
+    "Python.ordenamiento.executor": "Run",
+    "Python.playlist_canciones.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
+    "Python.potencia_numero.executor": "Run",
+    "Python.precedencia_operadores.executor": "Run",
+    "Python.prestamo_libros.executor": "Run",
+    "Python.promedio_calificaciones.executor": "Run",
+    "Python.raton.executor": "Run",
+    "Python.receta_cocina.executor": "Run",
+    "Python.reemplazar.executor": "Run",
+    "Python.regresar_varios_valores.executor": "Run",
+    "Python.repeticion_mensaje.executor": "Run",
+    "Python.reserva_hotel.executor": "Run",
+    "Python.sentencia_elif.executor": "Debug",
+    "Python.sentencia_if.executor": "Run",
+    "Python.sentencia_if_else.executor": "Run",
+    "Python.sets.executor": "Run",
+    "Python.sistema_autenticacion (1).executor": "Run",
+    "Python.sistema_bancario.executor": "Run",
+    "Python.sistema_biblioteca_app.executor": "Run",
+    "Python.sistema_calificaciones.executor": "Run",
+    "Python.sistema_empleados.executor": "Run",
+    "Python.sistema_empleados_app.executor": "Run",
+    "Python.sistema_envios (1).executor": "Run",
+    "Python.sistema_envios.executor": "Run",
+    "Python.sistema_inventarios.executor": "Run",
+    "Python.slicing.executor": "Run",
+    "Python.suma_argumentos_variables.executor": "Run",
+    "Python.suma_iterativa.executor": "Run",
+    "Python.sumar.executor": "Run",
+    "Python.teclado.executor": "Run",
+    "Python.ticket_venta.executor": "Run",
+    "Python.tienda_linea.executor": "Run",
+    "Python.tienda_online.executor": "Run",
+    "Python.tipos_datos.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "Python.validacion_formulario.executor": "Run",
+    "Python.validacion_rango.executor": "Run",
+    "Python.validacion_usuario.executor": "Run",
+    "Python.valor_dentro_rango (1).executor": "Run",
+    "Python.valor_positivo.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "rama-curso-python",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Carlos/Desktop/Python/CursoPython",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython" />
@@ -217,8 +221,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teclado">
-    <configuration name="computadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.excepciones">
+    <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,13 +231,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/computadora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,13 +255,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/monitor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundo_pc_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="expresiones_generadoras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,13 +279,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/mundo_pc_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="raton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones_suma_next" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,13 +303,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/raton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teclado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,13 +327,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/teclado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,19 +343,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.computadora" />
-      <item itemvalue="Python.monitor" />
-      <item itemvalue="Python.mundo_pc_app" />
-      <item itemvalue="Python.raton" />
-      <item itemvalue="Python.teclado" />
+      <item itemvalue="Python.decoradores" />
+      <item itemvalue="Python.excepciones" />
+      <item itemvalue="Python.expresiones_generadoras" />
+      <item itemvalue="Python.funciones_suma_next" />
+      <item itemvalue="Python.generadores" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.teclado" />
-        <item itemvalue="Python.mundo_pc_app" />
-        <item itemvalue="Python.computadora" />
-        <item itemvalue="Python.monitor" />
-        <item itemvalue="Python.raton" />
+        <item itemvalue="Python.excepciones" />
+        <item itemvalue="Python.funciones_suma_next" />
+        <item itemvalue="Python.decoradores" />
+        <item itemvalue="Python.expresiones_generadoras" />
+        <item itemvalue="Python.generadores" />
       </list>
     </recent_temporary>
   </component>
