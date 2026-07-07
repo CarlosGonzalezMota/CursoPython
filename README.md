@@ -54,9 +54,11 @@
 * <ins> Sección 10 </ins> - Clases y Objetos
     
   * CursoPython\10_Clases_Objetos
-    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_Clases_Objetos/Ejercicios)
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_ClasesObjetos/Ejercicios)
 
 * <ins> Sección 11 </ins> - Herencia
     
-  * CursoPython\11_Herencia
-    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/11_Herencia/Ejercicios)
+  * CursoPython\10_Herencia
+    * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_Herencia/Ejercicios)
+
+* <ins> Sección 12 </ins> - Temas Avanzados

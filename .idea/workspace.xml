@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejemplos/Ejemplo01 - Polimorfismo/polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/computadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/dispositivo_entrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/mundo_pc_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/orden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/raton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/teclado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/clase_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Herencia/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/comprension_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funcion_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/manejo_cadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/ordenamiento.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
+      "state": "OPEN",
+      "author": "CarlosGonzalezMota"
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
-  }
-}</component>
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CarlosGonzalezMota/CursoPython.git&quot;,
@@ -92,6 +89,7 @@
     "Python.clase_object.executor": "Run",
     "Python.coche.executor": "Run",
     "Python.combinacion_listas_tuplas.executor": "Run",
+    "Python.comprension_listas.executor": "Run",
     "Python.computadora.executor": "Run",
     "Python.concatenacion_cadenas.executor": "Run",
     "Python.constantes.executor": "Run",
@@ -99,6 +97,7 @@
     "Python.conversion_temperatura.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
     "Python.creacion_contraseña.executor": "Run",
+    "Python.decoradores.executor": "Run",
     "Python.dentro_rango_not.executor": "Run",
     "Python.descuento_vip.executor": "Run",
     "Python.desempaquetado_tuplas.executor": "Run",
@@ -109,16 +108,22 @@
     "Python.entrada_datos.executor": "Run",
     "Python.error_comun_bool.executor": "Run",
     "Python.estacion_anio.executor": "Run",
+    "Python.excepciones.executor": "Run",
+    "Python.expresiones_generadoras.executor": "Run",
     "Python.factorial_numero.executor": "Run",
     "Python.for_range.executor": "Run",
     "Python.funcion_bool.executor": "Run",
     "Python.funcion_len.executor": "Run",
     "Python.funcion_par.executor": "Run",
+    "Python.funcion_zip.executor": "Run",
     "Python.funciones.executor": "Run",
+    "Python.funciones_lambda.executor": "Run",
     "Python.funciones_recursivas.executor": "Run",
+    "Python.funciones_suma_next.executor": "Run",
     "Python.generador_email.executor": "Run",
     "Python.generador_id.executor": "Run",
     "Python.generador_id_unico (1).executor": "Run",
+    "Python.generadores.executor": "Run",
     "Python.generar_valores_aleatorios.executor": "Run",
     "Python.gestion_inventario.executor": "Run",
     "Python.herencia.executor": "Run",
@@ -129,6 +134,7 @@
     "Python.lista_suscriptores.executor": "Run",
     "Python.listas.executor": "Run",
     "Python.listas_diccionarios.executor": "Run",
+    "Python.manejo_cadenas.executor": "Run",
     "Python.maquina_snacks.executor": "Run",
     "Python.mayor_dos_numeros.executor": "Run",
     "Python.menu_iterativo.executor": "Run",
@@ -148,6 +154,7 @@
     "Python.operadores_asignacion_compuestos.executor": "Run",
     "Python.operadores_comparacion.executor": "Run",
     "Python.operadores_logicos.executor": "Run",
+    "Python.ordenamiento.executor": "Run",
     "Python.playlist_canciones.executor": "Run",
     "Python.polimorfismo.executor": "Run",
     "Python.potencia_numero.executor": "Run",
@@ -214,8 +221,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mundo_pc_app">
-    <configuration name="computadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.excepciones">
+    <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,13 +231,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/computadora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,13 +255,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/monitor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundo_pc_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="expresiones_generadoras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,13 +279,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/mundo_pc_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="raton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones_suma_next" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,13 +303,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/raton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teclado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,13 +327,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Herencia/Ejercicios/Ejercicio01/teclado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +343,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.computadora" />
-      <item itemvalue="Python.monitor" />
-      <item itemvalue="Python.mundo_pc_app" />
-      <item itemvalue="Python.raton" />
-      <item itemvalue="Python.teclado" />
+      <item itemvalue="Python.decoradores" />
+      <item itemvalue="Python.excepciones" />
+      <item itemvalue="Python.expresiones_generadoras" />
+      <item itemvalue="Python.funciones_suma_next" />
+      <item itemvalue="Python.generadores" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mundo_pc_app" />
-        <item itemvalue="Python.computadora" />
-        <item itemvalue="Python.monitor" />
-        <item itemvalue="Python.teclado" />
-        <item itemvalue="Python.raton" />
+        <item itemvalue="Python.excepciones" />
+        <item itemvalue="Python.funciones_suma_next" />
+        <item itemvalue="Python.decoradores" />
+        <item itemvalue="Python.expresiones_generadoras" />
+        <item itemvalue="Python.generadores" />
       </list>
     </recent_temporary>
   </component>
