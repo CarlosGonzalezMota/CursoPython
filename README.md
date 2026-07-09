@@ -62,3 +62,5 @@
     * [Ejercicios](https://github.com/CarlosGonzalezMota/CursoPython/tree/rama-curso-python/10_Herencia/Ejercicios)
 
 * <ins> Sección 12 </ins> - Temas Avanzados
+
+* <ins> Sección 13 </ins> - Lectura de Archivos
