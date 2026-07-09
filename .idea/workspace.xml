@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2040b0da-cd3f-445c-bf03-190d77b769ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/comprension_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funcion_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/manejo_cadenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_TemasAvanzados/ordenamiento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto/maquina_snacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto/servicio_snacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto/snack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto/snacks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejercicios/catalogo_peliculas/app_catalogo_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejercicios/catalogo_peliculas/pelicula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/Ejercicios/catalogo_peliculas/servicio_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/anexar_archivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/creacion_archivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/creacion_archivo_modo_exclusivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/leer_archivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_LecturaArchivos/mi_archivo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Dockerfile" />
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -29,15 +34,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "author": "CarlosGonzalezMota"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;CarlosGonzalezMota&quot;
     }
   ],
-  "lastFilter": {}
-}]]></component>
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CarlosGonzalezMota/CursoPython.git&quot;,
@@ -65,7 +70,9 @@
     "Python.Persona.executor": "Run",
     "Python.agenda_contactos.executor": "Run",
     "Python.alcanze_variables.executor": "Run",
+    "Python.anexar_archivo.executor": "Run",
     "Python.aplicacion_salud_fitness.executor": "Run",
+    "Python.app_catalogo_peliculas.executor": "Run",
     "Python.argumentos_por_nombres.executor": "Run",
     "Python.argumentos_variables.executor": "Run",
     "Python.argumentos_variables_kwargs.executor": "Run",
@@ -96,7 +103,9 @@
     "Python.contador_personas.executor": "Run",
     "Python.conversion_temperatura.executor": "Run",
     "Python.conversion_tipos.executor": "Run",
+    "Python.creacion_archivo.executor": "Run",
     "Python.creacion_contraseña.executor": "Run",
+    "Python.crear_archivo_modo_exclusivo.executor": "Run",
     "Python.decoradores.executor": "Run",
     "Python.dentro_rango_not.executor": "Run",
     "Python.descuento_vip.executor": "Run",
@@ -131,6 +140,7 @@
     "Python.imprimir_detalles_persona.executor": "Run",
     "Python.inmutabilidad_cadenas.executor": "Run",
     "Python.iterar_listas.executor": "Run",
+    "Python.leer_archivo.executor": "Run",
     "Python.lista_suscriptores.executor": "Run",
     "Python.listas.executor": "Run",
     "Python.listas_diccionarios.executor": "Run",
@@ -200,12 +210,13 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "rama-curso-python",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Carlos/Desktop/Python/CursoPython",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -221,8 +232,8 @@
       <recent name="C:\Users\Carlos\Desktop\Python\CursoPython\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.excepciones">
-    <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.app_catalogo_peliculas">
+    <configuration name="anexar_archivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,13 +242,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_LecturaArchivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/decoradores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_LecturaArchivos/anexar_archivo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app_catalogo_peliculas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,13 +266,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_LecturaArchivos/Ejercicios/catalogo_peliculas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/excepciones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_LecturaArchivos/Ejercicios/catalogo_peliculas/app_catalogo_peliculas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="expresiones_generadoras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="creacion_archivo_modo_exclusivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,13 +290,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_LecturaArchivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/expresiones_generadoras.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Carlos\Desktop\Python\CursoPython\13_LecturaArchivos\creacion_archivo_modo_exclusivo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funciones_suma_next" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leer_archivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,13 +314,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_LecturaArchivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/funciones_suma_next.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_LecturaArchivos/leer_archivo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maquina_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,13 +338,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_TemasAvanzados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_TemasAvanzados/generadores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_LecturaArchivos/Ejemplos/maquina_snacks_proyecto/maquina_snacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +354,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.decoradores" />
-      <item itemvalue="Python.excepciones" />
-      <item itemvalue="Python.expresiones_generadoras" />
-      <item itemvalue="Python.funciones_suma_next" />
-      <item itemvalue="Python.generadores" />
+      <item itemvalue="Python.anexar_archivo" />
+      <item itemvalue="Python.app_catalogo_peliculas" />
+      <item itemvalue="Python.creacion_archivo_modo_exclusivo" />
+      <item itemvalue="Python.leer_archivo" />
+      <item itemvalue="Python.maquina_snacks" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.excepciones" />
-        <item itemvalue="Python.funciones_suma_next" />
-        <item itemvalue="Python.decoradores" />
-        <item itemvalue="Python.expresiones_generadoras" />
-        <item itemvalue="Python.generadores" />
+        <item itemvalue="Python.app_catalogo_peliculas" />
+        <item itemvalue="Python.maquina_snacks" />
+        <item itemvalue="Python.anexar_archivo" />
+        <item itemvalue="Python.leer_archivo" />
+        <item itemvalue="Python.creacion_archivo_modo_exclusivo" />
       </list>
     </recent_temporary>
   </component>
